@@ -1,0 +1,26 @@
+body {
+	font-size: 14px;
+	line-height: 21px;
+	font-weight: normal;
+	font-family: "PTSans";
+	text-transform: uppercase;
+	color: #333333;
+}
+
+h1 {
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 26px;
+	font-family: "PTSans";
+	text-transform: uppercase;
+	color: #000000;
+}
+
+h2 {
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 21px;
+	font-family: "PTSans";
+	text-transform: uppercase;
+	color: #000000;
+}
